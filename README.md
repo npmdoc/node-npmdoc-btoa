@@ -1,6 +1,6 @@
 # npmdoc-btoa
 
-#### api documentation for  [btoa (v1.1.2)](https://github.com/coolaj86/node-browser-compat)  [![npm package](https://img.shields.io/npm/v/npmdoc-btoa.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-btoa) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-btoa.svg)](https://travis-ci.org/npmdoc/node-npmdoc-btoa)
+#### basic api documentation for  [btoa (v1.1.2)](https://github.com/coolaj86/node-browser-compat)  [![npm package](https://img.shields.io/npm/v/npmdoc-btoa.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-btoa) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-btoa.svg)](https://travis-ci.org/npmdoc/node-npmdoc-btoa)
 
 #### btoa for Node.JS (it's a one-liner)
 
