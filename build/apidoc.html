@@ -70,15 +70,6 @@
 
         </li>
 
-        <li>
-
-            <a class="apidocElementLiA" href="#apidoc.element.btoa.toString">
-            function <span class="apidocSignatureSpan">btoa.</span>toString
-            <span class="apidocSignatureSpan">()</span>
-            </a>
-
-        </li>
-
     </ol></li>
 
 </ol></div>
@@ -107,37 +98,6 @@
   return buffer.toString(&#x27;base64&#x27;);
 }</pre></li>
     <li>example usage<pre class="apidocCodePre">n/a</pre></li>
-    </ul>
-
-
-
-    <h2>
-        <a href="#apidoc.element.btoa.toString" id="apidoc.element.btoa.toString">
-        function <span class="apidocSignatureSpan">btoa.</span>toString
-        <span class="apidocSignatureSpan">()</span>
-        </a>
-    </h2>
-    <ul>
-    <li>description and source-code<pre class="apidocCodePre">toString = function () {
-    return text;
-}</pre></li>
-    <li>example usage<pre class="apidocCodePre">...
-  function btoa(str) {
-    var buffer
-      ;
-
-    if (str instanceof Buffer) {
-      buffer = str;
-    } else {
-      buffer = new Buffer(str.<span class="apidocCodeKeywordSpan">toString</span>(), &#x27;binary&#x27;);
-    }
-
-    return buffer.toString(&#x27;base64&#x27;);
-  }
-
-  module.exports = btoa;
-}());
-...</pre></li>
     </ul>
 
 
